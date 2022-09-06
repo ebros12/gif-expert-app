@@ -7,6 +7,6 @@ yarn O yarn install
 para instalar las dependencias
 
 
-yarm dev
+yarn dev
 
 para iniciar el servidor
